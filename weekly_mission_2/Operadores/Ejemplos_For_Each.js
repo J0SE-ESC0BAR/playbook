@@ -1,7 +1,7 @@
 //Ejemplos de For Each
 
 //Ejemplo 1, imprimir lista de nombres
-const nombres = ["José", "Luis", "Daniel", "Rodrigo", "Jonatan"];
+const nombres = ["José", "Luis", "Daniel", "Rodrigo", "Jonathan"];
 console.log("\nEjemplo 1: imprimiendo nombres de una lista")
 nombres.forEach(nombre => console.log(nombre))
 
